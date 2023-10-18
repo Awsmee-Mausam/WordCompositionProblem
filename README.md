@@ -5,7 +5,7 @@ The CompoundedWords program is designed to find the longest and second-longest c
 Execution Steps :-
 To execute the program, follow these steps:
 
-1. Compile the Java Code: Ensure you have Java installed on your system. Open a command prompt or terminal and navigate to the directory containing the CompoundedWords.java file. Use the following command to compile the code:
+1. Compile the Java Code: Ensure you have Java installed on your system. Open a command prompt or terminal and navigate to the directory containing the CompoundedWords_01.java file. Use the following command to compile the code:
 
 javac CompoundedWords_01.java
 
